@@ -24,10 +24,6 @@ int main()
     int x;
     cin >> x;
     switch (x) {
-    case 0:
-        system("clear");
-        system("rm /home/kalashik/test1/doc.txt");
-            break;
     case 1:
         system("clear");
         system("date");
